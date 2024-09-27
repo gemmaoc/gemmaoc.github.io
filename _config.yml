@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Gemma O'Connor"
-  avatar           : "bio_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Scientist"
   location         : "University of Washington"
   email            : "goconnor@uw.edu"
