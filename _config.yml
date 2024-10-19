@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gemma O'Connor"
 description              : #"An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gemmaoc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gemmaoc/gemmaoc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -115,15 +115,15 @@ analytics:
 author:
   name             : "Gemma O'Connor"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Scientist"
-  location         : "University of Washington"
-  email            : "goconnor@uw.edu"
-  google scholar   : "https://scholar.google.com/citations?user=XTZaYpUAAAAJ&hl=en&authuser=1"
+  bio              : "Postdoctoral Scientist at the University of Washington"
+  location         : "Seattle, Washington"
+  # email            : "goconnor@uw.edu"
+  # google scholar   : "https://scholar.google.com/citations?user=XTZaYpUAAAAJ&hl=en&authuser=1"
   
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "goconnor@uw.edu"
+      url: "mailto:goconnor@uw.edu"
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=XTZaYpUAAAAJ&hl=en&authuser=1"
@@ -242,23 +242,23 @@ paginate_path: /page:num/
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
-pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
+# pagination:
+#   # Set enabled to true to use paginate v2
+#   # enabled: true
+#   debug: false
+#   collection: 'pages'
+#   per_page: 10
+#   permalink: '/:categories/:title/'
+#   title: ':title - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+#   category: 'posts'
+#   tag: ''
+#   locale: ''
+#   trail:
+#     before: 2
+#     after: 2
 
 
 # Plugins (previously gems:)
