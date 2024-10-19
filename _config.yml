@@ -328,3 +328,46 @@ defaults:
       comments: # true
       share: true
       related: true
+# _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single-teaching
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single-publication
+      author_profile: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single-talk
+      author_profile: true
+  # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single-code
+      author_profile: true
+
+# Collections
+collections:
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # code:
+  #   output: true
+  #   permalink: /:collection/:path/

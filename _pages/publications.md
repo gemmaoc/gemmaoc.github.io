@@ -1,10 +1,15 @@
 ---
+layout: archive
+title: "Publications"
 permalink: /publications/
+author_profile: true
+classes: wide
 ---
+ 
 
-14. 	O’Connor, G.K., Nakayama, Y., Steig, E.J., Armour, K.C., Thompson, L., Hyogo, S., Berdahl, M., Shimada, T. West Antarctic glacier retreat triggered by polynya response to meridional winds. In review at Nature Geoscience.
+14. 	*ergrt**O’Connor, G.K., Nakayama, Y., Steig, E.J., Armour, K.C., Thompson, L., Hyogo, S., Berdahl, M., Shimada, T. West Antarctic glacier retreat triggered by polynya response to meridional winds. In review.
 
-13. 	Schneider, D.P., Yin, Z., O’Connor, G.K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R., Espinosa, Z. Increased Antarctic snowfall mitigates sea level rise less than projected due to meltwater influence on sea surface temperature. In review at PNAS. https://doi.org/10.22541/essoar.172411232.25724214/v2 
+13. 	Schneider, D.P., Yin, Z., O’Connor, G.K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R., Espinosa, Z. Increased Antarctic snowfall mitigates sea level rise less than projected due to meltwater influence on sea surface temperature. In review. https://doi.org/10.22541/essoar.172411232.25724214/v2 
 
 12. 	Dalaiden, Q., Abram, N.J., Goosse, H., Holland, P.R., O’Connor, G.K., Topal, D. (2024). Tropical and anthropogenic drivers shape multi-decadal atmospheric circulation variability over West Antarctica. Geophysical Research Letters, 51(16), e2024GL109137, https://doi.org/10.1029/2024GL109137.
 
