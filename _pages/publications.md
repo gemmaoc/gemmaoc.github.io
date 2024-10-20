@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Publications"
-permalink: /publications
+permalink: publications
 author_profile: true
 classes: wide
 # excerpt: " "
 header:
-  overlay_image: /assets/photos/Headers/penguin.jpg
+  overlay_image: assets/photos/Headers/penguin.jpg
 ---
 
 <style>

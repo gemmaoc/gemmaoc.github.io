@@ -1,5 +1,5 @@
 ---
-permalink: /photos
+permalink: photos
 layout: single
 excerpt: "My Photos"
 author_profile: true
