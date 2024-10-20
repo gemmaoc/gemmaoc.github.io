@@ -5,7 +5,7 @@ title: "Gemma O'Connor"
 author_profile: true
 classes: wide
 header:
-  overlay_image: /assets/photos/Headers/melange.jpg
+  overlay_image: assets/photos/Headers/melange.JPG
   overlay_filter: 0.2
 ---
  <!-- import link to  grad cap icon-->
