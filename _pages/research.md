@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 # excerpt: " "
 header:
-  overlay_image: assets/photos/Headers/pressure_ridge.jpg
+  overlay_image: assets/photos/Headers/pressure_ridge.JPG
 ---
 
 <style>
