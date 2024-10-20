@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: home
 layout: single
-title: "Gemma O'Connor"
+title: "GEMMA"
 author_profile: true
 classes: wide
 header:
@@ -35,6 +35,9 @@ header:
   }
   ul.education-list li div {
     line-height: 1.4;  /* Adjust line spacing if needed */
+  }
+  .page__title {
+    opacity: 0;
   }
 </style>
 
