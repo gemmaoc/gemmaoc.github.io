@@ -40,12 +40,10 @@ header:
 
 <div>
     <p>
-        I am a postdoctoral research scientist in the University of Washington School of Oceanography, supported by a <a href="https://www.wrfseattle.org/" target="blank">Washington Research Foundation</a> fellowship and a <a href="https://escience.washington.edu/" target="blank">UW eScience Institutee</a> data science fellowship. 
+        I am a postdoctoral research scientist in the University of Washington School of Oceanography, supported by a <a href="https://www.wrfseattle.org/" target="blank">Washington Research Foundation</a> fellowship and a <a href="https://escience.washington.edu/" target="blank">UW eScience Institute</a> data science fellowship. 
     </p>
     <p>
-        I use computational methods to study the climate, ocean, and cryosphere as a means to better understand and prepare for climate change. 
-        I am fascinated by our ability to piece together the complex processes occurring in the polar regions &mdash; some of the most data poor regions
-        in the world &mdash; by using diverse datasets and statistical and modeling techniques. 
+        I use computational methods to study the climate, ocean, and cryosphere as a means to better understand and prepare for climate change. I study the polar regions, where a key challenge is data sparsity. A core goal of my research is piecing together the complex processes occurring in these regions using diverse datasets and statistical and modeling techniques. 
     </p>
 </div>
     
