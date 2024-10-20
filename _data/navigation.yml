@@ -1,20 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: "/about/"
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
   - title: "Publications"
     url: "/publications/"
   - title: "Photos"
     url: "/photos/"
-  - title: "CV"
-    url: "/photos/"
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "CV"
+    # url: "/cv/"
