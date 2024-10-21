@@ -69,7 +69,7 @@ header:
   <ul class="education-list">
     <li><i class="fas fa-graduation-cap"></i> Ph.D. in Earth and Space Sciences, 2023<br>
     University of Washington</li>
-    <li><i class="fas fa-graduation-cap"></i> B.S. Industrial and Systems Engineering, 2017 <br>
+    <li><i class="fas fa-graduation-cap"></i> B.S. in Industrial and Systems Engineering, 2017 <br>
     Georgia Institute of Technology</li>
   </ul>
 </div>
