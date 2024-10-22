@@ -83,18 +83,28 @@ header:
     Proxy data are typically used for reconstructing past temperature. However, they are also useful for reconstructing climate at remote regions as long as their climates covary. 
     The figure on the right shows the covariance between West Antarctic winds and temperatures around the globe, as captured by a climate model. Red and blue regions show strong covariances; yellow dots show proxy locations. If a proxy record lies on a red or blue region, it is useful for reconstructing West Antarctic winds.
   </p>
-  <h3>Associated studies</h3>
-  <p>
-    The reconstructions were originally published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095999" target="blank">O'Connor et al., 2021</a>. They are available for download at <a href="https://zenodo.org/records/5507607#.Y6OOl-yIb0o" target="blank">Zenodo</a>. 
-  </p>
-  <p>
-    Reconstructions with single-proxy types assimilated (e.g., corals only, or ice cores only) were published in O'Connor et al., 2023 (available for download <a href="https://zenodo.org/records/8007655" target="blank">here</a>). Additional reconstructions using updated climate model priors are in review and will be available upon acceptance. 
-  </p>
-  <p>
-    These reconstructions have provided constraints in several applications, including the drivers of West Antarctic ice loss (<a href="https://tc.copernicus.org/articles/17/4399/2023/"
-    target="blank">O'Connor et al., 2023</a>), Antarctic sea ice variability (<a href="https://cp.copernicus.org/articles/20/53/2024/" target="blank">Fogt et al., 2024</a>), 
-    and Southern Ocean meltwater trends (<a href="https://doi.org/10.22541/essoar.172411232.25724214/v2" target="blank">Schneider et al., in review</a>). 
-  </p>
+  <h3>Data availability</h3>
+  <ol>
+    <li>The reconstructions were originally published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095999" target="blank">O'Connor et al., 2021</a>. They are available for download at <a href="https://zenodo.org/records/5507607#.Y6OOl-yIb0o" target="blank">Zenodo</a>.</li>
+    <li>Reconstructions with single-proxy types assimilated (e.g., corals only, or ice cores only) were published in O'Connor et al., 2023 (available for download <a href="https://zenodo.org/records/8007655" target="blank">here</a>).</li>
+    <li>Additional reconstructions using updated climate model priors are in review and will be available upon acceptance of studies currently in review.</li>
+  </ol>
+  <h3>Associated Studies</h3>
+  <ol>
+    <li>The reconstructions show robust evidence for an Amundsen Sea Low deepening trend in the South Pacific and strengthening circumpolar westerlies with an asymmetric pattern around Antarctica, 
+        in contrast to historical climate simulations which show a very annular strengthening of the westerlies, which has major implications for the atmospheric drivers of West Antarctic ice loss.
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095999" target="blank">O'Connor et al., 2021</a>.</li>
+    <li>The reconstructions lie within the ensemble of historical climate model simulations, demonstrating that large internal variability can explain the apparent model-reconstruction mismatch, but 
+        also emphasizes that large and irreducible uncertainty associated with climate projections around Antarctica.
+        <a href="https://tc.copernicus.org/articles/16/5085/2022/" target="blank">Holland et al., 2022</a></li>
+    <li>A strong westerly event occurred from 1938 to 1942, coinciding with a major El Niño event and the estimated initation of glacier retreat in West Antarctica. Comparisons between the reconstructed event and internal climate variability
+        show that the event is likely insufficiently large enough to trigger retreat after ~10,000 years of stability, which suggests that an alternative trigger or alternative sustained forcings are needed to explain 
+        historical glacier retreat in West Antarctica. <a href="https://tc.copernicus.org/articles/17/4399/2023/" target="blank">O'Connor et al., 2023</a>.</li>
+    <li>A comprehensive comparison between several proxy-constrained reconstructions and insutrumental-constrained reconstructions of Antarctic sea ice and atmospheric circulation
+        reveals consistencies and inconsistencies that highlight the need to better understand the drivers of historical atmospheric changes in Antarctica: <a href="https://cp.copernicus.org/articles/20/53/2024/" target="blank">Fogt et al., 2024</a></li>
+    <li>Proxy-constrained reconstructions suggest that historical multi-decadal variability near West Antarctica is driven by both natural tropical and anthropogenic changes: <a href="" target="blank">Dalaiden et al., 2024</a></li>
+    <li>Reconstructed atmospheric circulation patterns around Antarctica are consistent with trends in Southern Ocean meltwater that explain the model-data mismatch in Antarctic accumulation changes: <a href="https://doi.org/10.22541/essoar.172411232.25724214/v2" target="blank">Schneider et al., in review</a></li>
+  </ol>
 
   <h3>Interactive visualization</h3>
   <p>
