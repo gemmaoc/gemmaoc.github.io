@@ -64,7 +64,7 @@ header:
 <div class="button-grid">
   <a href="#paleoDA" class="button">Paleoclimate reconstruction from data assimilation</a>
   <a href="#oceanmodeling" class="button">Numerical Ocean Modeling near West Antarctica</a>
-  <a href="#elnino" class="button">Reconstructing El Niño activity from corals</a>
+  <a href="#elnino" class="button">Reconstructing El Niño activity from coral oxygen isotopes</a>
   <a href="#geophysics" class="button">Geophysical constraints from radar surveys in Antarctica</a>
 </div>
 
