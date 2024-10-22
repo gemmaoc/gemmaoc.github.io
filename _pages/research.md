@@ -84,6 +84,8 @@ header:
     The figure on the right shows the covariance between West Antarctic winds and temperatures around the globe, as captured by a climate model. Red and blue regions show strong covariances; yellow dots show proxy locations. If a proxy record lies on a red or blue region, it is useful for reconstructing West Antarctic winds.
   </p>
   <h3>Data availability</h3>
+  <p>Please reach out if you would like help accessing the data or interpreting the data. I'm happy to answer questions and I'm open to producing new reconstructions with different climate model priors or proxies. Find my contact info on the home page. 
+  </p>
   <ol>
     <li>The reconstructions were originally published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095999" target="blank">O'Connor et al., 2021</a>. They are available for download at <a href="https://zenodo.org/records/5507607#.Y6OOl-yIb0o" target="blank">Zenodo</a>.</li>
     <li>Reconstructions with single-proxy types assimilated (e.g., corals only, or ice cores only) were published in O'Connor et al., 2023 (available for download <a href="https://zenodo.org/records/8007655" target="blank">here</a>).</li>
@@ -151,7 +153,7 @@ header:
     target="blank">Grothe et al., 2020</a></li>
     <li>Coral ensembles reveal warming and freshening trends in the central tropical Pacific over the 20th century: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094051"
     target="blank">Hitt et al., 2022</a></li>
-    <li>Paired oceanographic and oxygen isotope observations reveal large differences in the warming vs. freshening contributions to coral oxygen isotope records due to ocean dynamics: 
+    <li>Paired observations reveal large differences in the warming vs. freshening contributions to coral oxygen isotope records for different events due to ocean dynamics: 
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL104454" target="blank">Stevenson et al., 2023</a></li>
   </ol>
 </div>
