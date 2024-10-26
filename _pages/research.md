@@ -115,7 +115,7 @@ header:
   </p>
   <p>
     Click on the image above to go to a web application to interact with the reconstructions. Several reconstructions are available, each made with a different climate model prior. 
-    The web application was custom built by my underaduate student, Jordan Tucker, as part of a summer RA position. 
+    The web application was custom built by my undergaduate student, Jordan Tucker, as part of a summer RA position. 
   </p>
 
 </div>
