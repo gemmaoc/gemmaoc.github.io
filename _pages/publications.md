@@ -28,7 +28,7 @@ header:
 </style>
  
 <ol reversed>
-    <li><span class="gko-text">O’Connor, G.K.</span>,Nakayama, Y., Steig, E.J., Armour, K.C., Thompson, L., Hyogo, S., Berdahl, M., Shimada, T. (2025). Enhanced West Antarctic ice loss triggered by polynya response to meridional winds. Nature Geoscience,  18, 840–847. <a href="https://doi.org/10.1029/2024GL109137" target="blank">https://doi.org/10.1029/2024GL109137</a>
+    <li><span class="gko-text">O’Connor, G.K.</span>,Nakayama, Y., Steig, E.J., Armour, K.C., Thompson, L., Hyogo, S., Berdahl, M., Shimada, T. (2025). Enhanced West Antarctic ice loss triggered by polynya response to meridional winds. Nature Geoscience,  18, 840–847. <a href="https://doi.org/10.1038/s41561-025-01757-6" target="blank">https://doi.org/10.1038/s41561-025-01757-6</a>
     </li>
     <li>Schneider, D.P., Yin, Z., <span class="gko-text">O’Connor, G.K.</span>, Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R., Espinosa, Z. Increased Antarctic snowfall mitigates sea level rise less than projected due to meltwater influence on sea surface temperature. In review at PNAS. <a href="https://doi.org/10.22541/essoar.172411232.25724214/v2" target="blank">https://doi.org/10.22541/essoar.172411232.25724214/v2</a>
     </li>
